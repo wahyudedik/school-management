@@ -8,3 +8,4 @@ class Setting extends Eloquent
 {
     protected $fillable = ['type', 'description'];
 }
+ 
